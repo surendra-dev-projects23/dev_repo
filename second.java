@@ -6,3 +6,5 @@ Sorry to mention you need to practice also.
 Thanks
 
 Iam updating this file in development branch
+
+hello surendra welcome to devops training
