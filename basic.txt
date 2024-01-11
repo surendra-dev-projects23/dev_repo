@@ -1,2 +1,3 @@
 Hello welcom to git practice
-today is thursday jan 11 
+today is thursday jan 11
+And now is time is 5:40 pm ok
