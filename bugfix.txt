@@ -4,4 +4,4 @@ updating the file from my end
 
 still working on the feature
 
-fix logical issues
+fixed logical issues
